@@ -5,6 +5,7 @@ public class practica1 {
         System.out.print("Boca");
         System.out.print("Hola Felipe");
         System.out.print("Hola David");
+        System.out.print("Hola 350");
     }
 }
 //prueba don felipito
